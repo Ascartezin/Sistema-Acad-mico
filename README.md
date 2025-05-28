@@ -77,6 +77,7 @@ bash
 chmod +x run.sh
 ./run.sh
 Observação: A classe principal está em tela.Main. Certifique-se de estar no diretório correto ao executar os comandos.
+```
 
 Seguem abaixo 3 prints da execução do sistema no terminal:
 ![image](https://github.com/user-attachments/assets/f52112d9-e945-4243-9667-3292f507d5c1)
